@@ -2,5 +2,5 @@
 reactjs app with material-ui which displays photos using pexels api.  
 
 ## instructions  
-npm install 
-npm start   
+npm install  
+npm start     
